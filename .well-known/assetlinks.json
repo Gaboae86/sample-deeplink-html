@@ -1,5 +1,5 @@
 [{
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target" : { "namespace": "android_app", "package_name": "com.crankfit.crank",
-                 "sha256_cert_fingerprints": ["BB:D4:C6:BF:75:23:FB:45:75:4F:FB:D6:B7:4E:40:10:E0:E9:8B:78:93:89:B9:B9:7C:5C:BD:3E:00"] }
+                 "sha256_cert_fingerprints": ["BB:D4:C6:BF:75:23:FB:45:75:4F:FB:D6:B7:4E:40:10:E0:E9:8B:78:93:89:B9:B9:7C:5C:BD:3E:00:1A:CC:EA"] }
   }]
